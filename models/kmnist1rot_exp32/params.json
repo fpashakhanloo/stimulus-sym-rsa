@@ -1,0 +1,1 @@
+{"hidden_dim": 32, "epochs": 500, "batch_size": 24, "learning_rate": 0.01, "use_bias": true, "l1_weight_reg": 0.0, "l2_weight_reg": 0.005, "l1_activation_reg": 2e-05, "l2_activation_reg": 0, "visualize_results_flag": true, "synnoise": 0.02, "savefigfile": "output/autoencoder_japanese32.svg"}
